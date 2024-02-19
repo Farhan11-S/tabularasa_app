@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "582179527294",
+    "firebase_url": "https://tabularasa-bf234-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tabularasa-bf234",
+    "storage_bucket": "tabularasa-bf234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582179527294:android:211e876fc9bb7dea81d62f",
+        "android_client_info": {
+          "package_name": "com.example.tabularasa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582179527294-0qs56snhrm0a0c5telj24vsto6tqjiom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tabularasa_app",
+            "certificate_hash": "8556757bc0da7ac0fc2220329436e1d4c548acc4"
+          }
+        },
+        {
+          "client_id": "582179527294-v37b5ivuael6lk3hneo70mlcpvet97ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbw0JCEmBdap3vyYDl7DLI8GwsBG1CJqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582179527294-v37b5ivuael6lk3hneo70mlcpvet97ib.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "582179527294-nke7om4f70etbj610611augmrob1lonk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tabularasaApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
